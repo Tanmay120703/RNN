@@ -1,4 +1,3 @@
-# RNN
 # 🔁 Sequence Modeling with Recurrent Neural Networks (RNN) using PyTorch
 
 This project demonstrates how to build a Recurrent Neural Network (RNN) using PyTorch to handle sequential data. The notebook includes complete training and evaluation pipelines for predicting output sequences based on input patterns, such as time series, text, or classification tasks.
